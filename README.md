@@ -51,7 +51,7 @@ A modern, responsive platform for college students to share educational resource
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AnuragBodkhe/EduStake.git
+ https://github.com/ShrinivasBhore/EduStake..git
 ```
 
 2. Open the project in your preferred code editor
@@ -141,16 +141,21 @@ For any queries regarding this project, please contact:
 ## 📸 Screenshots
 
 ### Registration Page
-![Registration Page](./assets/1233.png)
+ ![1233](https://github.com/user-attachments/assets/47f515e0-ffc9-4eca-a84b-64ad76126546)
+
 
 ### Login Page
-![Login Page](./assets/14225.png)
+ ![14225](https://github.com/user-attachments/assets/cf5a72dc-46fd-48cc-b33a-e2f54cdfe89b)
+
 
 ### Dashboard - Resource Sharing
-![Dashboard](./assets/16262.png)
+ ![16262](https://github.com/user-attachments/assets/29b8987b-1316-44e4-88e7-4cf336eb9759)
+
 
 ### Landing Page - Features
-![Landing Page Features](./assets/162672.png)
+ ![156255](https://github.com/user-attachments/assets/9192a028-72ad-4574-8754-42b5e465cf26)
+
 
 ### College Communities
-![College Communities](./assets/156255.png)
+ ![162672](https://github.com/user-attachments/assets/ca0a6683-1985-4d24-997b-b1bf8645f3a6)
+
