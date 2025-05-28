@@ -118,8 +118,8 @@ The system automatically synchronizes data between these storage methods to prov
 
 ## 📝 Developer
 
-**Anurag Bodkhe**
-- LinkedIn: [Anurag Bodkhe](https://www.linkedin.com/in/anurag-bodkhe-087758292)
+**Shrinivas Bhore**
+- LinkedIn: [Shrinivas Bhore](www.linkedin.com/in/shrinivas-bhore-169584205)
 - Institution: MIT Art, Design and Technology University, Pune
 
 ## 📄 License
@@ -133,7 +133,7 @@ This project was developed as part of the academic curriculum at MIT Art, Design
 ## 📞 Contact
 
 For any queries regarding this project, please contact:
-- **Phone:** 9022977272
+- **Phone:** 8080343362
 - **Location:** MIT Art, Design and Technology University
 - **Address:** Rajbaugh, Loni Kalbhor, Solapur Highway
 - **City:** Pune - 412201, Maharashtra, India
